@@ -1,7 +1,12 @@
-CD74HC08E x8 - https://www.digikey.com.au/en/products/detail/texas-instruments/CD74HC08E/475889
-SN74HC86N x10 - https://www.digikey.com.au/en/products/detail/texas-instruments/SN74HC86N/376842
-SN74HC32N x5 - https://www.digikey.com.au/en/products/detail/texas-instruments/SN74HC32N/277235
-SN74HC04N x2 - https://www.digikey.com.au/en/products/detail/texas-instruments/SN74HC04N/277212
-CD4511BE x3 - https://www.digikey.com.au/en/products/detail/texas-instruments/CD4511BE/67341
-EG1218 x20 - https://www.digikey.com.au/en/products/detail/e-switch/EG1218/101726
-CD74HC283E x20 - https://www.digikey.com.au/en/products/detail/texas-instruments/CD74HC283E/555829
+CD74HC08E x8 ($13.92) - https://www.digikey.com.au/en/products/detail/texas-instruments/CD74HC08E/475889 (Quad AND gate required for multiplication and rectifying the subtraction so negatives dont give the compliment)
+SN74HC86N x10 ($12.04) - https://www.digikey.com.au/en/products/detail/texas-instruments/SN74HC86N/376842 (Quad XOR gate required for addition and rectifying the subtraction so negatives dont give the compliment)
+SN74HC32N x5 ($5.45) - https://www.digikey.com.au/en/products/detail/texas-instruments/SN74HC32N/277235 
+SN74HC04N x2 ($2.28) - https://www.digikey.com.au/en/products/detail/texas-instruments/SN74HC04N/277212 (Hex Inverter to rectify subtraction)
+CD4511BE x3 ($4.62) - https://www.digikey.com.au/en/products/detail/texas-instruments/CD4511BE/67341
+Slide Switches x1 ($14.30) - https://www.amazon.com.au/gp/product/B08SM2HHNR/ref=sw_img_1?smid=A3JCEYBC5L8UJ8&psc=1
+CD74HC283E x20 ($30.24) - https://www.digikey.com.au/en/products/detail/texas-instruments/CD74HC283E/555829 (4-Bit adder, required for all operations on the calculator)
+FND507/LTS542R/S50 RWB Common Anode 7 Segment Display x6 ($17.70) - https://www.jaycar.com.au/fnd507-lts542r-s50-rwb-common-anode-7-segment-display/p/ZD1857 (7-Segment displays for the output)
+22 awg Wire Solid Core Wire x1 ($28.12) - https://www.amazon.com.au/TUOFENG-Wire-Solid-Different-Colored-spools/dp/B07TX6BX47/ref=pd_cart_vw_d_sccl_1_1/357-5104324-1704146?pd_rd_w=nqmGR&content-id=amzn1.sym.57493b58-f041-44eb-90b5-9c6ef099f678&pf_rd_p=57493b58-f041-44eb-90b5-9c6ef099f678&pf_rd_r=T8BAMM1HNSN61B0DD396&pd_rd_wg=iFs5p&pd_rd_r=09accff0-581b-4d05-a3ef-66677d4e2952&pd_rd_i=B07TX6BX47&psc=1 (wire necessary to connect the chips)
+5V Breadboard power modules x1 ($11.29) - https://www.amazon.com.au/gp/product/B0FBRNX5FQ/ref=ewc_pr_img_3?smid=A1JDXH8MT9MP4H&psc=1 (to supply power for the project)
+830 point breadboard (large) x2 ($19.98) - https://www.amazon.com.au/gp/product/B0FB3D6P15/ref=ewc_pr_img_2?smid=A29DMZKXQY6EP5&psc=1 (breadboards, duh) (to organise the circuitry)
+400 point breadboard (small) x2 ($19.98) - https://www.amazon.com.au/gp/product/B0772GW88Q/ref=ewc_pr_img_1?smid=A1VNE74G1DE5K1&psc=1 (organise the project)
