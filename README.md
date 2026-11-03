@@ -27,9 +27,12 @@ An 8-bit adder/subtractor built entirely from discrete logic chips, with no micr
 
 ## Why I made it
 
-`[Write 2–3 honest, personal sentences. What made you want to build this? Possible angles: you wanted to understand how a CPU's arithmetic actually works at the gate level, and building it without a microprocessor means you can't hide behind code.]`
+`[## Why I made it
 
-Every bit of the result is made by physical gates you can probe with a multimeter. It's also designed as a teaching tool: anyone looking at the board can see carry propagation happen.
+Addition, subtraction and multiplication seem like simple tasks, but a computer does them with real wiring. I built this project to see that wiring for myself.
+
+Going without code was also a deliberate challenge. With a microcontroller, this project would just be switches wired to an Arduino and then to LEDs, with a few lines of code doing all the work. Without one, every bit of the result has to come from physical logic gates you can see and probe.
+Every bit of the result is made by physical gates you can probe with a multimeter. It's also designed as a teaching tool: anyone looking at the board can see carry propagation happen.]`
 
 ## How it works
 
