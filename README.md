@@ -27,8 +27,6 @@ An 8-bit adder/subtractor built entirely from discrete logic chips, with no micr
 
 ## Why I made it
 
-Why I made it
-
 Addition, subtraction and multiplication seem like simple tasks, but a computer does them with real wiring. I built this project to see that wiring for myself.
 
 Going without code was also a deliberate challenge. With a microcontroller, this project would just be switches wired to an Arduino and then to LEDs, with a few lines of code doing all the work. Without one, every bit of the result has to come from physical logic gates you can see and probe.
