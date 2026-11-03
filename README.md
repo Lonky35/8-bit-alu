@@ -86,7 +86,9 @@ Main parts: 2× 74HC283, 2× 74HC86, 1× 74HC04, 1× 74HC08, CD4511 decoders, 7-
 
 ## Why it's worth funding
 
-`[Fill in what the money actually lets you do, for example: a real PCB instead of a breadboard, so it's a durable one-off you can demo; parts for the multiplier stage; casing materials.]`
+I currently can't afford the parts, so funding is what lets me turn this design into a real, working build. Until now the project has only existed in simulation, and the grant would let me build it as a physical device you can switch, probe and watch work.
+
+The funding covers the chips, displays and switches in [`bom.csv`](bom.csv), plus `[PCB fabrication / casing materials]`. I'm building only one unit, so the request is kept to what's needed.
 
 ## Credits and license
 
